@@ -2,9 +2,13 @@
 
 Welcome to the bot setup guide! Follow the steps below to install and configure the bot correctly. This guide is designed to be beginner-friendly, with clear explanations for each step.
 
-> [Termux guides if you run on mobile](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+🔹 Method 1: Install via Git (Recommended)
+1️⃣ Clone the bot repository:
 
----
+```bash
+git clone https://github.com/Gundro1/MagicNewton.git
+cd MagicNewton
+```
 
 ## Table of Contents
 
@@ -27,9 +31,11 @@ Before running the bot, make sure you have the following installed:
 - **Node.js** (Version: `22.11.0`)
 - **npm** (Version: `10.9.0`)
 
-Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257/1462).
-
--> Double click on `run.bat` for windows or `run.sh` for linux/mac if you want to run automatically, remember to fill all the necessary data.
+Download Node.js and npm here:  
+```bash
+sudo apt update
+  sudo apt install nodejs npm
+```
 
 ---
 
@@ -101,12 +107,9 @@ cookie
 _Note: Each row for each account_
 
 ### 3. `wallets.txt` - 💼 Wallet Addresses
-
-- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 - Add your wallet addresses in the following format:
 
 ```txt
-abc...xyz
 abc...xyz
 abc...xyz
 ```
@@ -120,9 +123,6 @@ If you are using proxies, add them here. Leave the file blank if you are not usi
 
 ```txt
 http://host:port
-https://host:port
-socks4://host:port
-socks5://host:port
 http://user:pass@host:port
 https://user:pass@host:port
 socks4://user:pass@host:port
@@ -138,7 +138,7 @@ _Note: each row for each account_
 1. Navigate to the folder containing the bot files:
 
    ```bash
-   cd /path/to/magicnewton
+   cd MagicNewton
    ```
 
 2. Run the bot using the following command:
@@ -148,19 +148,13 @@ _Note: each row for each account_
 
 ---
 
-## Contact and Support
+## All thanks to the rightful owner [MewMunDep](https://github.com/MeoMunDep/MeoMunDep)
 
-- **Help me with your referral** [Referral Link](https://magicnewton.com/portal?referral=fm128uuxw95ahto6)
-- **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
+- **Help me with your referral** [Referral Link](https://magicnewton.com/portal?referral=drhlwdfq5hlxsdzu)
 
 If you encounter any issues or have questions, feel free to reach out:
 
-- **Contact for work:** [Telegram](https://t.me/MeoMunDep)
-- **Join the support group:** [Join here](https://t.me/KeoAirDropFreeNe)
-- **Updates Channel:** [View channel](https://t.me/KeoAirDropFreeNee)
-- **YouTube Channel:** [Watch here](https://www.youtube.com/@keoairdropfreene)
-- **Instagram:** [Follow me](https://www.instagram.com/meomundep)
-- **Tiktok:** [Follow me](https://www.tiktok.com/@meomundep)
+- **Contact for work:** [Telegram](https://t.me/gictdao)
 
 Your support is greatly appreciated! 🐱
 
