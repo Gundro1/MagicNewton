@@ -7,7 +7,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 
 ```bash
 git clone https://github.com/Gundro1/MagicNewton.git
-cd MagicNewton
+cd MagicNewton/MagicNewton
 ```
 
 ## Table of Contents
